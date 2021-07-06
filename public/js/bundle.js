@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(()=>{const e=document.querySelectorAll(".sidenav");M.SideNav.init(e)}))})();
